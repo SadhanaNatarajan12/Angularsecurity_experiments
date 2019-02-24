@@ -1,0 +1,3 @@
+[submodule "angular-application/my-app"]
+	path = angular-application/my-app
+	url = git://github.com/SadhanaNatarajan12/Angularsecurity_experiments.git
